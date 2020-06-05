@@ -1,6 +1,5 @@
-Hello
 
-![Picture of Me](https://media-exp1.licdn.com/dms/image/C4D03AQFuUSfDOrKI_w/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=E2cvE1iNr9qsKnmMT404X8iDUOrshOT9zIUqEnW2yG8)  [LinkedIn](https://www.linkedin.com/in/ozlemcinar/) [Github](https://github.com/ozlemcinar)
+![Picture of Me](https://media-exp1.licdn.com/dms/image/C4D03AQFuUSfDOrKI_w/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=E2cvE1iNr9qsKnmMT404X8iDUOrshOT9zIUqEnW2yG8){:height="24px" width="48px"}    [LinkedIn](https://www.linkedin.com/in/ozlemcinar/)   [Github](https://github.com/ozlemcinar)
 
 
 I have recently graduated from Binghamton University with a bachelor degree in computer science in May 2020.
