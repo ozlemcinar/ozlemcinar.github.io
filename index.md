@@ -2,7 +2,7 @@
 <img src="https://media-exp1.licdn.com/dms/image/C4D03AQFuUSfDOrKI_w/profile-displayphoto-shrink_200_200/0?e=1596672000&v=beta&t=E2cvE1iNr9qsKnmMT404X8iDUOrshOT9zIUqEnW2yG8" width="100" height = "130"> &nbsp;&nbsp;   [LinkedIn](https://www.linkedin.com/in/ozlemcinar/)&nbsp;&nbsp;   [Github](https://github.com/ozlemcinar)
 
 > Open to Job Opportunities 
-><br>&nbsp; Software Engineering Roles
+><br>&nbsp;&nbsp; Software Engineering Roles
 
 
 
